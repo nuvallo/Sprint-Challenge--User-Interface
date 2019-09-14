@@ -285,7 +285,7 @@ p {
   background-image: url("/img/blog.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  height: 500px;
+  height: 350px;
   margin-bottom: 3%;
 }
 
@@ -312,7 +312,7 @@ p {
   display: inline-block;
   border: 2px solid black;
   padding: 5px 20px 5px 20px;
-  margin: 3% 0 3% 0;
+  margin: 5% 0 5% 0;
   text-decoration: none;
   color: black;
   border-radius: 10px;
@@ -321,6 +321,24 @@ p {
 .blog-box a:hover {
   background: #000;
   color: #fff;
+}
+.blog-start {
+  margin: auto;
+  text-align: center;
+}
+
+.blog-start h1 {
+  font-size: 40px;
+}
+
+.blog-start a {
+  display: inline-block;
+  border: 2px solid black;
+  padding: 5px 20px 5px 20px;
+  margin: 0 0 5% 0;
+  text-decoration: none;
+  color: black;
+  border-radius: 10px;
 }
 
 /* Pre-made styles */
