@@ -280,6 +280,14 @@ p {
   margin-bottom: 5%;
 }
 
+/* Stretch: Blog */
+.showcase {
+  background-image: url("/img/blog.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+
 /* Pre-made styles */
 .top-content {
   display: flex;
