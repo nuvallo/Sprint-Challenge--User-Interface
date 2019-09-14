@@ -37,4 +37,32 @@
   }
 
   /* About page */
+  .jumbo-section {
+    text-align: center;
+  }
+
+  .about-boxes {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .together-section {
+    text-align: center;
+  }
+
+  /* Blog page */
+  .blog-boxes {
+    justify-content: center;
+  }
+
+  /* Contact page */
+  .form-section h1,
+  p {
+    text-align: center;
+  }
+
+  form {
+    max-width: 500px;
+    margin: auto;
+  }
 }
