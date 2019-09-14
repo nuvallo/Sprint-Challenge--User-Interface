@@ -272,6 +272,14 @@ p {
   color: #fff;
 }
 
+.together-section h1 {
+  margin-top: 5%;
+}
+
+.together-section p {
+  margin-bottom: 5%;
+}
+
 /* Pre-made styles */
 .top-content {
   display: flex;
