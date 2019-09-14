@@ -229,6 +229,11 @@ p {
   background: dodgerblue;
 }
 
+/* About Page */
+.jumbo-section h1 {
+  margin-top: 3%;
+}
+
 .top-content {
   display: flex;
   flex-wrap: wrap;
