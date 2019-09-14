@@ -1,0 +1,40 @@
+@media screen and (max-width: 900px) {
+  /* Home Page */
+  .container {
+    max-width: 100%;
+  }
+
+  .text-container {
+    width: 100%;
+  }
+
+  .navbar,
+  .navbar ul {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .navbar li {
+    justify-content: center;
+  }
+
+  .top-content {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .middle-content {
+    text-align: center;
+  }
+
+  .boxes {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .bottom-content {
+    flex-direction: column;
+  }
+
+  /* About page */
+}
