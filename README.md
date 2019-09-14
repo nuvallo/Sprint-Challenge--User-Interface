@@ -51,7 +51,7 @@ You are expected to be able to answer all these questions. Your responses contri
 - [*] Clone your OWN version of the repository (Not Lambda's by mistake!).
 - [*] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [*] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [*] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
 
@@ -101,4 +101,4 @@ After finishing your required elements, you can push your work further. These go
 - [*] Build a page of your choosing from the navigation items. Come up with content and images that fit the theme.
 - [ ] Introduce CSS animations to your site.
 - [*] Build a contact page and create a form with several inputs of your choosing
-- [ ] Add responsive breakpoints to your code by using media queries
+- [*] Add responsive breakpoints to your code by using media queries

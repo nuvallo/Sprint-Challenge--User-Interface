@@ -152,6 +152,12 @@ p {
   line-height: 1.4;
 }
 
+@keyframes rotate {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 .container {
   width: 800px;
   margin: 0 auto;
@@ -162,6 +168,10 @@ p {
 }
 
 /* Navigation */
+.logo:hover {
+  animation: rotate 1.5s linear infinite;
+}
+
 .navbar {
   display: flex;
   flex-direction: row;
